@@ -1,0 +1,17 @@
+fastapi
+uvicorn
+numpy
+scipy
+shapely
+open3d>=0.18.0
+laspy
+pydantic
+pillow
+torch
+diffusers
+transformers
+accelerate
+opencv-python
+feedparser
+sentence-transformers
+scikit-learn
